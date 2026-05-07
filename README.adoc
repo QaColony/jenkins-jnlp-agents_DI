@@ -1,5 +1,18 @@
 = Docker inbound agents
 
+[IMPORTANT]
+====
+🛑
+This repository is archived and in read-only mode.
+All associated Docker images are also archived in the DockerHub.
+You can keep using the images but they are not maintained or updated anymore.
+You should start using custom images built on top of link:https://hub.docker.com/repository/docker/jenkins/inbound-agent[jenkins/inbound-agent].
+====
+
+Details in link:https://github.com/jenkinsci/docker-inbound-agents/issues/51[].
+
+== README before archiving
+
 This repository is a collection of Docker images which combine the basics
 to run a Jenkins inbound agent with a standard Docker image.
 
